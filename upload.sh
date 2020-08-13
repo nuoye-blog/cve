@@ -3,5 +3,5 @@
 
 git add -A
 git commit -m date
-echo date
+date
 git push -u origin master
